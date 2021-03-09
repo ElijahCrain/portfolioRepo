@@ -1,4 +1,10 @@
-h1{
-    color:blue;
+body{
+    background-color:darkgrey;
 }
+
+
+h1,h2{
+    color:rgb(31, 5, 126);
+}
+
 
